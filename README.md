@@ -20,9 +20,19 @@
 <img src="https://img.shields.io/github/issues-pr-closed-raw/Tejas1510/Hacking-Scripts?style=for-the-badge" >
 </p>
 
+## 📢 Join Official Slack channel for Discussion about the project : [Hacking-Scripts](https://swoc-workspace.slack.com/archives/C01HV9LADSQ)
+
 ## 📌 Introduction
 
 <b>Hacking Scripts</b> contains amazing and awesome scripts written in Python, JavaScript, Java, Nodejs and many more. The main aim of this repository is to provide utility scripts that could make everyday life easy. Get started with coding exhilarating scripts that can be useful to download PDFs from an Online Source or just to randomly accept bulk linkedin request.
+
+<center><h1 align="center">Technologies Used</h1></center>
+<p align="center">
+<img height="200" width ="200" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/pythonlogo.jfif"></img>
+<img height="200" width ="300" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/javascriptlogo.png"></img>
+<img height="200" width ="200" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/javalogo.png"></img>
+<img height="200" width ="400" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/htmllogo.jfif"></img>
+</p>
 
 ## ⭐ Getting Started
 
@@ -85,14 +95,36 @@ git push
 
 **9.** **Congratulations!** Sit and relax, you've made your contribution to [Hacking-Scripts](https://github.com/Tejas1510/Hacking-Scripts) project.
 
+
+## 📢  Open Source Program
+
+### This Project is a part of the following Open Source Program
+
+<p align="center">
+<img src ="https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/scriptcode.jfif" alt ="Script Winter of Code"></img>
+<img src ="https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/script.jfif" alt ="Script Winter of Code"></img>
+</p>
+
 ## ⭐ Issues:
 For major changes, you are welcomed to open an issue and discuss what you would like to contribute. Enhancements will be appreciated.
+
+## ❤️ Project Admin
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Tejas1510">
+            <img src="https://avatars0.githubusercontent.com/u/64543913?s=400&u=6468d71695b9ce8fc4a5704cfe7df32fdd28437a&v=4" width="200px;" alt="" style="border-radius:50%"/> <br />
+            <b>Tejas1510</b>
+            </a><br />
+            <a href="https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/commits?author=Tejas1510" title="Coding">💻</a>
+        </td>
+ </tr>
+ </table>
 
 <p align = "center">
 
 <a href="https://github.com/Tejas1510"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Tejas1510/Awesome-Javascript-and-React-Project)
-
+![built with love](https://forthebadge.com/images/badges/built-with-love.svg)
 </p>
 
 Check out my Github profile [Tejas1510!](https://github.com/Tejas1510)
